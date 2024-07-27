@@ -59,6 +59,7 @@ const PetraWalletConnection = () => {
   }
 
   return (
+    
     <div className="flex items-center justify-end p-4">
       {isConnected ? (
         <div className="flex items-center space-x-4">
